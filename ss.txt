@@ -1,0 +1,20 @@
+class muthu{
+
+public static void main(String args[]){
+    
+     
+    muthu mm=new muthu();
+    
+    mm.add(12, 23);
+system.out.println(c);
+}
+
+public int add(int a, int b){
+
+int c=a+b;
+
+return c;
+    
+    }
+
+    }
